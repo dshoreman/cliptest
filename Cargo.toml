@@ -1,0 +1,8 @@
+[package]
+name = "cliptest"
+version = "0.1.0"
+authors = ["Dave Shoreman <dshoreman@users.noreply.github.com>"]
+edition = "2018"
+
+[dependencies]
+x11-clipboard = { path = "x11-clipboard" }
